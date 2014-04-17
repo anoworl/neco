@@ -1,3 +1,3 @@
-module Neco
+class Neco
   VERSION = "0.0.1"
 end
